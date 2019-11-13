@@ -1,0 +1,15 @@
+
+(venv) C:\Users\m.b.vijayaraghavan\PycharmProject\testing_a_code>coverage run testing_cosh/test_cosh.py
+....
+----------------------------------------------------------------------
+Ran 4 tests in 0.000s
+
+OK
+
+(venv) C:\Users\m.b.vijayaraghavan\PycharmProject\testing_a_code>coverage report
+Name                                 Stmts   Miss  Cover
+--------------------------------------------------------
+testing_cosh\cosh_logic_program.py       3      0   100%
+testing_cosh\test_cosh.py               13      0   100%
+--------------------------------------------------------
+TOTAL                                   16      0   100%

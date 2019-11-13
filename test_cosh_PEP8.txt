@@ -1,0 +1,6 @@
+(venv) C:\Users\m.b.vijayaraghavan\PycharmProject\testing_a_code>pylint testing_cosh/test_cosh.py
+No config file found, using default configuration
+
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 7.27/10, +2.73)
+
